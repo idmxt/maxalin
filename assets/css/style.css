@@ -3,17 +3,17 @@
 ===========================*/
 @font-face {
 	font-family: "Plumb";
-	src: url(/assets/fonts/PlumbKaz-Regular.woff);
+	src: url(./assets/fonts/PlumbKaz-Regular.woff);
 }
 
 @font-face {
 	font-family: "KZ_Andantino_script";
-	src: url(/assets/fonts/KZ_Andantino_script.woff);
+	src: url(./assets/fonts/KZ_Andantino_script.woff);
 }
 
 @font-face {
 	font-family: "Parsek";
-	src: url(/assets/fonts/KZ_Parsek.woff);
+	src: url(./assets/fonts/KZ_Parsek.woff);
 }
 
 body {
