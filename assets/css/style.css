@@ -8,7 +8,7 @@
 
 @font-face {
 	font-family: "KZ_Andantino_script";
-	src: url(./fonts/KZ_Andantino_script.woff);
+	src: url('https://idmxt.github.io/maxalin/fonts/KZ_Andantino_script.woff) format('woff'));
 }
 
 @font-face {
