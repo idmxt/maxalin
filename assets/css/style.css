@@ -3,7 +3,7 @@
 ===========================*/
 @font-face {
 	font-family: "Plumb";
-	src: url(assets/fonts/PlumbKaz-Regular.woff);
+	src: url("https://idmxt.github.io/maxalin/assets/fonts/PlumbKaz-Regular.woff") type ("woff");
 }
 
 @font-face {
